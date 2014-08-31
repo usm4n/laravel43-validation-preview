@@ -1,0 +1,31 @@
+/* overrides */
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+
+#header .jumbotron {
+    margin-bottom: 15px;
+}
+
+#header h1 {
+    font-size: 36px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 22px;
+    font-weight: normal;
+    color: #eee;
+    background-color: #2c3e50;
+    margin: 2px;
+    padding: 10px;
+    border-radius: 4px;
+}
+.form-content {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
